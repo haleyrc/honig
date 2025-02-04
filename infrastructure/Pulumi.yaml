@@ -1,0 +1,3 @@
+name: honig
+runtime: go
+description: Infrastructure for deploying the honig utility.
